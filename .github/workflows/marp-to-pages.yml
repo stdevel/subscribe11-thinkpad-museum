@@ -1,0 +1,27 @@
+name: Publish slides to GitHub Pages
+on:
+  push:
+    # branches:
+    #   - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Convert Markdown into HTML and PDF (de)
+        uses: KoharaKazuya/marp-cli-action@v3
+        with:
+          config-file: ./slides/de.marprc.yml
+
+      - name: Convert Markdown into HTML and PDF (en)
+        uses: KoharaKazuya/marp-cli-action@v3
+        with:
+          config-file: ./slides/en.marprc.yml
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./slides
