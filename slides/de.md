@@ -84,7 +84,7 @@ SUBSCRIBE 11
 
 - Online-Museum als **Blog**
 - listet Details der Sammlung auf
-  - **55** <u>unterschiedliche</u> Notebooks
+  - **56** <u>unterschiedliche</u> Notebooks
   - **3** PDAs, **1** Tablet
   - **10** Docking Stationen
   - ∞ Akkus und Kabel
@@ -500,7 +500,7 @@ Your browser does not support the audio element.
 
 - Focusrite **Scarlett Solo** Gen 3 + beyerdynamic **DT 797 PV**
   - hier tut es auch was Günstigeres (z.B. RØDE NT-USB Mini)
-  - finde Sprechgarnituren einfacher zu nutzen als Standmikrofone
+  - ich finde Sprechgarnituren einfacher zu nutzen als Standmikrofone
 - [REAPER](https://www.reaper.fm/) und [UltraSchall](https://ultraschall.fm/)*
 - [Studio-Link](https://studio-link.de/) für Gäst:innen
 - Terminplanung mit [nuudel](https://nuudel.digitalcourage.de/)
