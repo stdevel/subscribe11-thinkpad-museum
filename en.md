@@ -70,7 +70,7 @@ SUBSCRIBE 11
 
 - Blog since 2008 (=16)
 - was late to the party: only discovered podcasts during the pandemic
-  - started with LNP and Chaoaradio and then discovered more podcasts
+  - started with LNP and Chaosradio and then discovered more podcasts
 
 -->
 
@@ -84,7 +84,7 @@ SUBSCRIBE 11
 
 - Online museum as **blog**
 - lists collection details
-  - **56** <u>different</u> notebooks
+  - **57** <u>different</u> notebooks
   - **3** PDAs
   - **10** Docking stations
   - ∞ batteries and cables
@@ -412,17 +412,23 @@ ThinkPad 360 PE (1995)
 <!-- _header: Branding -->
 <!-- footer: 'No, this does _not_ stand for **T**rusted **P**latform **M**odule! 🤡' -->
 
-- **Name**
-  - ThinkPad Museum was obvious, ThinkPod already taken
-  - **TPM*** as episode prefix
+<div class="container">
+
+<div class="col75">
+
+- ThinkPad Museum was obvious, ThinkPod already taken
+- **TPM*** as episode prefix
 - **Cover** with TrackPoint for direct association
-
-<div style="display:contents;" data-marpit-fragment>
-
 - **Audio scheme**
-  - Searched the usual **catalogs** (e.g. [AudioJungle](https://audiojungle.net/)) for hours
-  - wanted an electronic scheme with iconic ThinkPads **sounds**
+  - Searched **catalogs** (e.g. [AudioJungle](https://audiojungle.net/)) for hours
+  - wanted an electronic scheme with iconic ThinkPad **sounds**
   - Musicians in my circle of friends created exactly that 🥰
+
+</div>
+
+<div class="col25">
+
+![w:320 center](./imgs/cover.jpg)
 
 <audio controls>
   <source src="imgs/tp_sounds.mp3" type="audio/mpeg">
@@ -435,32 +441,6 @@ Your browser does not support the audio element.
 </audio>
 
 </div>
-
----
-
-<!-- _header: Artwork -->
-<!-- footer: '' -->
-
-<div class="container">
-
-<div class="col">
-
-- simple design
-- Adoption of **similar** colors
-  - white (#fdfdfd)
-  - red (#fe1610, #ec1c23)
-  - green: (#01a755)
-  - blue: (#496da9)
-- recognizable **fonts**
-  - Haettenschweiler
-  - BigBlue
-- **-43°** rotation of the logo
-
-</div>
-
-<div class="col">
-
-![w:520 center](./imgs/cover.jpg)
 
 </div>
 
@@ -477,7 +457,7 @@ Your browser does not support the audio element.
 - **Kanban board** and issues for episode planning
   - **Tags** for different topics
 - **Two** Markdown documents per episode
-  - Content keywords and chapters (`episode.md`)
+  - Content keywords and chapters (`notes.md`)
   - Research notes and source collections (`dossier.md`)
 
 <!--
@@ -501,8 +481,7 @@ Your browser does not support the audio element.
 - Focusrite **Scarlett Solo** Gen 3 + beyerdynamic **DT 797 PV**
   - something cheaper will do as well (e.g. RØDE NT-USB Mini)
   - I find headsets easier to use than stand mics
-- [REAPER](https://www.reaper.fm/) and [UltraSchall](https://ultraschall.fm/)*
-- [Studio-Link](https://studio-link.de/) for guests
+- [REAPER](https://www.reaper.fm/) and [UltraSchall](https://ultraschall.fm/)*, [Studio-Link](https://studio-link.de/) for guests
 - Scheduling with [nuudel](https://nuudel.digitalcourage.de/)
 - [GIMP](https://www.gimp.org/) for images and artwork
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) for transcripts
@@ -594,7 +573,7 @@ CPU goes brrr 🔥
 <div style="display:contents;" data-marpit-fragment>
 
 - I came across [Castopod](https://castopod.org/) in the Fediverse
-  - successfully **generdsniped** the local Mastodon instance operator
+  - successfully **generdsniped** the regional Mastodon instance operator
   - first podcast on [podcasts.darmstadt.social](https://podcasts.darmstadt.social/) 🎉
 
 </div>
@@ -639,9 +618,7 @@ CPU goes brrr 🔥
 <!-- _header: Castopod -->
 
 - developed in **PHP**
-- requires a MySQL or MariaDB database
-- pre-built package for [YunoHost](https://yunohost.org)
-- can be hosted via **Docker** or Podman
+- can also be hosted via **Docker** or Podman
 
 <div style="display:contents;" data-marpit-fragment>
 
@@ -678,8 +655,8 @@ CPU goes brrr 🔥
 
 - An account on [podcasts.social](https://podcasts.social) is mandatory!
   - Posts for **episodes**, but also direct community **interaction**
-  - **Pin** current episode to profile
-  - Build a **bubble**: Track **hashtags**, share to **conversations**
+  - Best Practice: **Pin** current episode to profile
+  - Build a **bubble**: Track **hashtags**, participate in **conversations**
 
 <div style="display:contents;" data-marpit-fragment>
 
@@ -700,30 +677,6 @@ CPU goes brrr 🔥
 <!--
 - Post something with the #thinkpad hashtag and I'll most likely reply to you
 -->
-
----
-
-<!-- _header: Marketing -->
-
-<div class="container">
-
-<div class="col">
-
-![w:450 center](./imgs/golem_cover.jpg)
-
-[Golem "Besser Wissen" podcast](https://besserwissen.podigee.io/99-thinkpad)
-
-</div>
-
-<div class="col">
-
-![w:450 center](./imgs/logo-wisspod-hell.png)
-
-[Part of wisspod catalog](https://wissenschaftspodcasts.de/podcasts/thinkpad-museum-podcast/)
-
-</div>
-
-</div>
 
 ---
 
@@ -771,7 +724,6 @@ CPU goes brrr 🔥
   - there is a niche bubble for **everything**
   - but the podcast scene is happy about curious topics
   - Just try it out - **diversity** is good!
-  - “*Be the change you want to see in the (podcast) world 🤡*”
 
 ---
 
@@ -781,6 +733,7 @@ CPU goes brrr 🔥
 - [FrOSCon 2024: ThinkPads - Geschichte und Nerdkultur (Teil 1)](https://media.ccc.de/v/froscon2024-3141-thinkpads) 🎥
 - [BW099 - Ein denkwürdiges Notebook](https://besserwissen.podigee.io/99-thinkpad) 🎙️
 - [HK003 - ThinkPads](https://hacker-kultur.de/episodes/003.html) 🎙️
+- [ThinkPad sounds](https://www.youtube.com/watch?v=G9vCBDV4ts4)
 - [ThinkPad museum](https://thinkpad-museum.com)
 
 ---
