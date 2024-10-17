@@ -329,7 +329,7 @@ IBM Leapfrog (1992)
 
 ![w:650 center](./imgs/360pe.jpg)
 
-ThinkPad 360 PE (1995)
+ThinkPad 360PE (1995)
 
 </div>
 
@@ -727,7 +727,11 @@ CPU goes brrr 🔥
 
 ---
 
-<!-- _header: Links -->
+<!-- _header: Links und Bilderquellen -->
+
+<div class="container">
+
+<div class="col">
 
 - [MRMCD 2024: ThinkPads - Eingabegeräte und Kuriositäten (Teil 2)](https://media.ccc.de/v/2024-339-thinkpads-geschichte-und-trivia) 🎥
 - [FrOSCon 2024: ThinkPads - Geschichte und Nerdkultur (Teil 1)](https://media.ccc.de/v/froscon2024-3141-thinkpads) 🎥
@@ -735,6 +739,22 @@ CPU goes brrr 🔥
 - [HK003 - ThinkPads](https://hacker-kultur.de/episodes/003.html) 🎙️
 - [ThinkPad Sounds](https://www.youtube.com/watch?v=G9vCBDV4ts4)
 - [ThinkPad-Museum](https://thinkpad-museum.de)
+
+</div>
+
+<div class="col">
+
+1. [IBM PC Convertible Model 5140](https://richardsapperdesign.com/products/mod-5140/)
+1. [Artemide Tizio](https://commons.wikimedia.org/wiki/File:Lampe_Tizio_von_Richard_Sapper.jpg)
+1. [ThinkPad T61 (Knives Out)](https://productplacementblog.com/movies/lenovo-thinkpad-t61-laptop-used-by-christopher-plummer-as-harlan-thrombey-in-knives-out-2019/)
+1. [ThinkPad 701C](https://en.wikipedia.org/wiki/File:IBM_ThinkPad_701C_keyboard.jpg)
+1. [ThinkPad W701](https://thinkwiki.de/W701)
+1. [IBM Leapfrog](https://richardsapperdesign.com/products/leapfrog/)
+1. [ThinkPad 360PE](https://commons.wikimedia.org/wiki/Category:ThinkPad_360PE)
+
+</div>
+
+</div>
 
 ---
 
