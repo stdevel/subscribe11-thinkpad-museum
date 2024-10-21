@@ -8,4 +8,4 @@ Theme based on [marp-theme-academic](https://github.com/kaisugi/marp-theme-acade
 | - | - | - |
 | HTML | [[klick!]](https://stdevel.github.io/subscribe11-thinkpad-museum/de.html) | [[click!]](https://stdevel.github.io/subscribe11-thinkpad-museum/en.html)
 | PDF | [[klick!]](https://stdevel.github.io/subscribe11-thinkpad-museum/de.pdf) | [[click!]](https://stdevel.github.io/subscribe11-thinkpad-museum/en.pdf)
-| Video | - | - |
+| Video | [[klick!]](https://media.ccc.de/v/subscribe11-58186-wie-man-einen-retro-podcast-from-scratch-startet) | - |
